@@ -23,3 +23,4 @@ C:\Users\angel\Documents\Angular_Iot\iot-angular-c\Iot_Angular_Back\Iot_Angular_
 C:\Users\angel\Documents\Angular_Iot\iot-angular-c\Iot_Angular_Back\Iot_Angular_Back\obj\Debug\netcoreapp3.1\staticwebassets\Iot_Angular_Back.StaticWebAssets.xml
 C:\Users\angel\Documents\Angular_Iot\iot-angular-c\Iot_Angular_Back\Iot_Angular_Back\bin\Debug\netcoreapp3.1\MySqlConnector.dll
 C:\Users\angel\Documents\Angular_Iot\iot-angular-c\Iot_Angular_Back\Iot_Angular_Back\obj\Debug\netcoreapp3.1\Iot_Angular_Back.csproj.CopyComplete
+C:\Users\angel\Documents\Angular_Iot\iot-angular-c\Iot_Angular_Back\Iot_Angular_Back\bin\Debug\netcoreapp3.1\MySql.Data.dll
