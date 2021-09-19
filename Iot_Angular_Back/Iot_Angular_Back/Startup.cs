@@ -27,7 +27,7 @@ namespace Iot_Angular_Back
         {
 
             services.AddControllersWithViews();
-            services.AddDbContext<ApplicationContext>(options =>
+            services.AddDbContext<ApplicationDbContext>(options =>
             options.UseSqlServer(Configuration.GetConnectionString("Myconnection")));
         }
 
