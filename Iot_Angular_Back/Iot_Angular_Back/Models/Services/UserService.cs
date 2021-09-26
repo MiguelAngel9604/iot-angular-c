@@ -28,6 +28,20 @@ namespace Iot_Angular_Back.Models.Services
             return userret;
         }
 
+        public async Task<Users[]> GetUsers()
+        {
+            Users[] users = null;
+            Users[] dbUsers = _db.users.ToArray();
+
+            if (dbUsers != null)
+            {
+                users = _mapper.Map<Users[]>(dbUsers);
+            }
+            return users;
+        }
+
+
+
     }
 
 }
